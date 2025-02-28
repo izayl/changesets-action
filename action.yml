@@ -1,5 +1,5 @@
-name: Changesets
-description: A GitHub action to automate releases with Changesets
+name: ChangesetsAction
+description: A GitHub action to automate releases with Changesets, support multi registry
 runs:
   using: "node20"
   main: "dist/index.js"
