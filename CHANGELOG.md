@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.10
+
+### Patch Changes
+
+- [`be39d3f`](https://github.com/changesets/action/commit/be39d3fcfda71d4ca456d829ba2f4464c632ceb8) Thanks [@izayl](https://github.com/izayl)! - Support multi registry regex in .npmrc file
+
 ## 1.4.9
 
 ### Patch Changes
