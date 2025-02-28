@@ -1,5 +1,5 @@
 {
-  "name": "@changesets/action",
+  "name": "@izayl/changesets-action",
   "version": "1.4.9",
   "main": "dist/index.js",
   "license": "MIT",
